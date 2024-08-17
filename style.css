@@ -18,7 +18,7 @@ img{
     height: 50%;
     
 }
-.square-colage{
+.square-colas{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 5px;
@@ -28,7 +28,7 @@ img{
         flex-direction: column;
         height: auto;
     }
-    .square-colage{
+    .square-colas{
         grid-template-columns: 1fr;
     }
 }
